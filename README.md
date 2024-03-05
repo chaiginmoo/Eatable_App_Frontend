@@ -76,7 +76,7 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 **REST API 구현**: Spring Boot 애플리케이션에서 RESTful 웹 서비스를 구현해서 클라이언트와 통신.
 
 ## ❤**이미지 소개**
-마이페이지
+마이페이지 / 파트너페이지   / 권한에 따라
 ![mypage](re/mypage.gif)
 타임라인
 ![timeline](re/timeline.gif)
