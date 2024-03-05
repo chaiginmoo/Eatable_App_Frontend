@@ -1,4 +1,7 @@
 [![homepage]([readme/homepage.png](https://github.com/Langssa/Eatable_App_Frontend/blob/master/readme/homepage.png?raw=true)](https://github.com/HyungJu19/Eatable_App_Frontend/issues/138#issue-2169212931)
+
+![homepage](https://github.com/HyungJu19/Eatable_App_Frontend/issues/138#issue-2169212931)
+
 ## **Eatable_Frontend 소개**
 
 Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 설치없이 모바일이나 테블릿 , pc 로 실시간  고객  웨이팅 처리를 할 수 있게 합니다.  또한 간편하고 재미있는 웨이팅 실시간 공유되는 타임라인과 
