@@ -1,4 +1,3 @@
-[![homepage]([readme/homepage.png](https://github.com/Langssa/Eatable_App_Frontend/blob/master/readme/homepage.png?raw=true)](https://github.com/HyungJu19/Eatable_App_Frontend/issues/138#issue-2169212931)
 
 ![homepage](https://github.com/HyungJu19/Eatable_App_Frontend/issues/138#issue-2169212931)
 
