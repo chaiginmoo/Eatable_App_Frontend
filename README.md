@@ -77,8 +77,8 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 ## ❤**이미지 소개**
 마이페이지
-![homepage](re/mypage.png)
+![mypage](re/mypage.gif)
 타임라인
-![homepage](re/timeline.png)
+![timeline](re/timeline.gif)
 
 
