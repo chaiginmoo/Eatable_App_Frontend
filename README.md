@@ -61,7 +61,6 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 ## 🔄**시스템 설계**
 
-![JPA-React 프로젝트 흐름도](readme/projectflow.png)
 
 **Spring Boot 설정**: Spring Data JPA를 사용하여 데이터베이스와 상호 작용.
 
