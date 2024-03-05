@@ -19,9 +19,11 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 ## 🛠**기술 스텍**
 ![homepage](re/skillstack.png)
+
 <br/>
 <hr/>
 <br/>
+
 ![gitgub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 )
