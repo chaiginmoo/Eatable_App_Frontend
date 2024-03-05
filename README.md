@@ -21,6 +21,8 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 ||업체등록 CRUD , 검색서치 쿼리 구현|
 
 ## 🛠**기술 스텍**
+![homepage](re/skillstack.png)
+<br/>
 ![gitgub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![intellijidea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 )
@@ -73,8 +75,10 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 **REST API 구현**: Spring Boot 애플리케이션에서 RESTful 웹 서비스를 구현해서 클라이언트와 통신.
 
-## ❤**서비스 기능 소개**
-
-
+## ❤**이미지 소개**
+마이페이지
+![homepage](re/mypage.png)
+타임라인
+![homepage](re/timeline.png)
 
 
