@@ -1,5 +1,5 @@
 
-![homepage](https://github.com/HyungJu19/Eatable_App_Frontend/issues/138#issue-2169212931)
+![homepage](re/homepage.png)
 
 ## **Eatable_Frontend 소개**
 
