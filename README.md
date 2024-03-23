@@ -28,7 +28,7 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 |최진무 팀원|룰렛 , 구글맵API , 업체등록 CRUD , 검색서치 쿼리 구현 (자동검색어,카테고리), 승인된 매장 데이터베이스 저장, 페이지네이션, 무한스크롤, 첨부파일
 
 ## 🛠**기술 스텍**
-![homepage](re/skillstack.png)
+![homepage](pic/skillstack.png)
 
 <br/>
 <hr/>
