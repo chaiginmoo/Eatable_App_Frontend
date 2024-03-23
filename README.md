@@ -1,16 +1,3 @@
-<p align="center">
-  <h2>카테고리</h2>
-  <img src="pic/카테고리.gif" alt="카테고리" width="100%">
-</p>
-<p align="center">
-  <h2>자동검색어(네이버,구글 검색어처럼 구현)</h2>
-  <img src="pic/자동검색어.gif" alt="자동검색어" width="100%">
-</p>
-<p align="center"> 
-  <h2>무한 스크롤</h2>
-  <img src="pic/무한.gif" alt="무한" width="100%">
-</p>
-
 ## **Eatable_Frontend 소개**
 
 Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 설치없이 모바일이나 테블릿 , pc 로 실시간  고객  웨이팅 처리를 할 수 있게 합니다.  또한 간편하고 재미있는 웨이팅 실시간 공유되는 타임라인과 
@@ -85,7 +72,23 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 
 **REST API 구현**: Spring Boot 애플리케이션에서 RESTful 웹 서비스를 구현해서 클라이언트와 통신.
 
+
+
+
+
 ## ❤**이미지 소개**
+<p align="center">
+  <h2>카테고리</h2>
+  <img src="pic/카테고리.gif" alt="카테고리" width="100%">
+</p>
+<p align="center">
+  <h2>자동검색어(네이버,구글 검색어처럼 구현)</h2>
+  <img src="pic/자동검색어.gif" alt="자동검색어" width="100%">
+</p>
+<p align="center"> 
+  <h2>무한 스크롤</h2>
+  <img src="pic/무한.gif" alt="무한" width="100%">
+</p>
 
 <p align="center"> 
   <h2>DropZone</h2>
