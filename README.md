@@ -106,6 +106,7 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
 </p>
 <p align="center"> 
   <h2>구글맵</h2>
+  Google map API - infowindow 대신 modal로 씀
   <img src="pic/지도.gif" alt="지도" width="100%">
   <img src="pic/지도검색.gif" alt="지도검색" width="100%">
 </p>
