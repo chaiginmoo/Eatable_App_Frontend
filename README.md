@@ -1,5 +1,6 @@
 
-![homepage](re/homepage.png)
+![무한](pic/무한.gif)
+![카테고리](pic/카테고리.gif)
 
 ## **Eatable_Frontend 소개**
 
