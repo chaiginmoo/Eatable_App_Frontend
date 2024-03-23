@@ -1,6 +1,11 @@
+<p align="center">
+  <img src="pic/무한.gif" alt="무한" width="100%">
+</p>
 
-![무한](pic/무한.gif)
-![카테고리](pic/카테고리.gif)
+<p align="center">
+  <img src="pic/카테고리.gif" alt="카테고리" width="100%">
+</p>
+
 
 ## **Eatable_Frontend 소개**
 
