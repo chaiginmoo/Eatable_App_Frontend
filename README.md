@@ -100,6 +100,10 @@ Eatable은 업체 등록 간소화 쉬운 사용  - 포스기나 별도 절차 �
   <img src="pic/구글검색어.gif" alt="구글 자동 검색어" width="100%">
 </p>
 <p align="center"> 
+  <h2>구글 현재 위치</h2>
+  <img src="pic/위치.png" alt="구글위치" width="100%">
+</p>
+<p align="center"> 
   <h2>구글맵</h2>
   <img src="pic/지도검색.gif" alt="지도검색" width="100%">
 </p>
